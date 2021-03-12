@@ -8,5 +8,7 @@
   },
   "author": "Ayush",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "bencode": "^2.0.1"
+  }
 }
